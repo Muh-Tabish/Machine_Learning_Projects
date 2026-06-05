@@ -3,6 +3,9 @@ Welcome to my Machine Learning Projects repository. A collection of Machine Lear
 
 # Repository Goals
 Apply Machine Learning concepts to real-world problems.
+
 Build end-to-end predictive models.
+
 Practice data preprocessing, feature engineering, model training, and evaluation.
+
 Maintain a portfolio of projects for learning and professional growth.
