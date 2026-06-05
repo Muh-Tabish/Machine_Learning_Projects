@@ -17,5 +17,5 @@ A machine learning classification project that predicts whether a breast tumor i
 
 **Accuracy:** 98.25%
 
-**Project Link:**
+**🔗Project Link:**
 https://github.com/Muh-Tabish/Machine_Learning_Projects/tree/main/Project_01_Breast_Cancer_Logistic_Regression
